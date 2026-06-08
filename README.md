@@ -32,6 +32,15 @@ Plataforma de inteligência artificial para auxiliar projetos de reforma e const
 - Claude API (Anthropic)
 - FastAPI
 
+## Contribuindo
+
+Contribuições são bem-vindas! Para contribuir:
+
+1. Faça um fork do repositório
+2. Crie um branch para sua feature: `git checkout -b minha-feature`
+3. Commit suas alterações: `git commit -m "feat: minha feature"`
+4. Abra um Pull Request
+
 ## Licença
 
 MIT
